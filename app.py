@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-st.set_page_config(page_title="Aryan Sharma — Music Recommendation System", page_icon="🎵")
+st.set_page_config(page_title="Mohammad Sufiyan — Music Recommendation System", page_icon="🎵")
 
 @st.cache_data
 def load_data():
@@ -15,14 +15,14 @@ def load_data():
 songs, ratings = load_data()
 
 st.title("🎵 Music Recommendation System")
-st.caption("by Aryan Sharma · Content-based + Collaborative (item-item)")
+st.caption("by Mohammad Sufiyan · Content-based + Collaborative (item-item)")
 
 with st.sidebar:
     st.header("About")
-    st.write("Built by **Aryan Sharma**")
-    st.write("GitHub: [aryansharma6836-max](https://github.com/aryansharma6836-max)")
-    st.write("LinkedIn: [Aryan Sharma](https://www.linkedin.com/in/aryan-sharma-b24151254)")
-    st.write("Email: aryansharma6836@gmail.com")
+    st.write("Built by **Mohammad Sufiyan**")
+    st.write("GitHub: [MohammadSufian-max](https://github.com/MohammadSufian-max)")
+    st.write("LinkedIn: [Mohammad Sufiyan](https://www.linkedin.com/in/mohammad-sufiyan-3l9/)")
+    st.write("Email: 39sufiyan@gmail.com")
 
 @st.cache_data
 def build_content_matrix(df: pd.DataFrame):
