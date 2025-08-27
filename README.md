@@ -6,9 +6,9 @@ A Streamlit web app that recommends songs using:
 
 ## 👤 Author
 **Aryan Sharma**
-- GitHub: https://github.com/aryansharma6836-max
-- LinkedIn: https://www.linkedin.com/in/aryan-sharma-b24151254
-- Email: aryansharma6836@gmail.com
+- GitHub: https://github.com/MohammadSufian-max
+- LinkedIn: https://www.linkedin.com/in/mohammad-sufiyan-3l9/
+- Email: 39sufiyan@gmail.com
 
 ## 🚀 How to run locally
 ```bash
