@@ -20,4 +20,4 @@ streamlit run app.py
 1. Create a new GitHub repo and upload all these files.
 2. Go to Streamlit Cloud → *Deploy a public app from GitHub*.
 3. Set **Main file path** to `app.py` → Deploy.
-4. Your app URL will look like: `https://music-recommendation-aryansharma.streamlit.app`
+4. Your app URL will look like: `https://music-recommendation-mohammadsufiyan.streamlit.app`
