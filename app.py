@@ -141,7 +141,7 @@ st.markdown(
     """
     <hr/>
     <p style="text-align:center;">
-    Made with ❤️ by <b>Aryan Sharma</b>
+    Made with ❤️ by <b>Mohammad Sufiyan</b>
     </p>
     """,
     unsafe_allow_html=True
